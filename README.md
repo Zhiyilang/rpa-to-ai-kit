@@ -35,3 +35,12 @@ Claude-builders 之类的赏金板走 Stripe，大陆个人收不到钱。所以
 ## License
 
 MIT — 随便用，保留声明即可。
+
+---
+
+## 💝 赞助 / 打赏
+
+如果这个项目对你有帮助，欢迎通过 **爱发电** 请我喝杯咖啡 ☕  
+👉 https://afdian.com/a/Zhiyilang
+
+> GitHub Sponsors 在中国大陆暂不支持个人账号，赞助统一走爱发电。
